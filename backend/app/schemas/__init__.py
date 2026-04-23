@@ -1,0 +1,1 @@
+"""Schemas Marshmallow — exportación centralizada."""

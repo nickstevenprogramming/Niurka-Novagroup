@@ -1,0 +1,15 @@
+flask==3.1.*
+flask-restx==1.3.*
+flask-sqlalchemy==3.1.*
+flask-migrate==4.0.*
+flask-jwt-extended==4.7.*
+flask-cors==5.0.*
+flask-mail==0.10.*
+flask-marshmallow==1.2.*
+marshmallow-sqlalchemy==1.1.*
+marshmallow==3.23.*
+pymysql==1.1.*
+cryptography==44.*
+python-dotenv==1.0.*
+gunicorn==23.*
+Werkzeug==3.1.*
